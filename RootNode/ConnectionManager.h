@@ -33,7 +33,7 @@ class ConnectionManager {
 
   private:
     const char* SSID = "Galaxy S20+";
-    const char* PASSWORD = "75576666Ma+";
+    const char* PASSWORD = "PASSWORD";
 
     bool meshIsInit = false;
 
